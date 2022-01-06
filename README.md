@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 Reach me with EMail under kuno-dev@pm.me
 
+![Keybase PGP](https://img.shields.io/keybase/pgp/kunodev)
+
 <!---
 kuno-dev/kuno-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
